@@ -8,7 +8,7 @@
 #include <cuda_runtime.h>
 #include <device_launch_parameters.h>
 
-constexpr int BLOCK_SIZE = 16;
+constexpr int BLOCK_SIZE = 32;
 
 #pragma pack(push, 1)
 struct BMPHeader {

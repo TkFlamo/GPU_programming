@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study\\GPU\\GPU_programming\\lab_3\\GPU_lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C965822-7201-390E-435F-B3F886B9EA64}|GPU_lab_3\\GPU_lab_3.vcxproj|C:\\study\\GPU\\GPU_programming\\lab_3\\GPU_lab_3\\GPU_lab_3\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C965822-7201-390E-435F-B3F886B9EA64}|GPU_lab_3\\GPU_lab_3.vcxproj|solutionrelative:GPU_lab_3\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\study\\GPU\\GPU_programming\\lab_3\\GPU_lab_3\\GPU_lab_3\\kernel.cu",
+              "RelativeDocumentMoniker": "GPU_lab_3\\kernel.cu",
+              "ToolTip": "C:\\study\\GPU\\GPU_programming\\lab_3\\GPU_lab_3\\GPU_lab_3\\kernel.cu",
+              "RelativeToolTip": "GPU_lab_3\\kernel.cu",
+              "ViewState": "AgIAAOcCAAAAAAAAAAAAANYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T22:50:57.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

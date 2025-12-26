@@ -9,7 +9,7 @@ C:\study\GPU\GPU_programming\lab_2\GPU_lab_2\GPU_lab_2\kernel.cu(411): warning #
   
 CUDACOMPILE : nvcc warning : Support for offline compilation for architectures prior to '<compute/sm/lto>_75' will be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
   kernel.cu
-  tmpxft_0000730c_00000000-7_kernel.cudafe1.cpp
+  tmpxft_00008a00_00000000-7_kernel.cudafe1.cpp
      Создается библиотека C:\study\GPU\GPU_programming\lab_2\GPU_lab_2\x64\Debug\GPU_lab_2.lib и объект C:\study\GPU\GPU_programming\lab_2\GPU_lab_2\x64\Debug\GPU_lab_2.exp
 LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
   GPU_lab_2.vcxproj -> C:\study\GPU\GPU_programming\lab_2\GPU_lab_2\x64\Debug\GPU_lab_2.exe
